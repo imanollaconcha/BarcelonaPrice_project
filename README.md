@@ -25,8 +25,9 @@ To do it I did:
 1.	It was necessary to download the shape of the districts of Barcelona as a map, I did it using QGIS software.
 2.	Once I had the shape of the districts of Barelona as (shp) it is just imported it to tableau to visualize it.
 
-**The result of whole project is a presentation in tableau in which you can see some graphs about the prices of real states in Barcelona depending where are them, if they have terrace, the number of bathrooms…
-On the other hand a function which depending where do you live, tells you the actual market price of your place and how much should it cost taking into account the lloguer index.**
+# The result.
+Is a presentation in tableau in which you can see some graphs about the prices of real states in Barcelona depending where are them, if they have terrace, the number of bathrooms…
+On the other hand a function which depending where do you live, tells you the actual market price of your place and how much should it cost taking into account the lloguer index.
 
 ![](images/barcelona_price.jpg)
  
